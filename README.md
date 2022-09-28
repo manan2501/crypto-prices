@@ -21,4 +21,5 @@ We will send same get to same api every 60 seconds by using `setInterval` and up
 
 ### References
 Pagination: https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/
+
 Chart: https://react-chartjs-2.js.org/
