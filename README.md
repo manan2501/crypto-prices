@@ -18,3 +18,7 @@ Upon clicking `coinCard`, user will be redirected to "/:coinName" where coinName
 `CoinDetail` will extract the `coinName` from params and show it in the LineChart with the help of `react-chartjs-2` which is developed upon `chart.js`.
 LineChart is ploted based on the response recived from the get request.
 We will send same get to same api every 60 seconds by using `setInterval` and update our data accordingly.
+
+### References
+Pagination: https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/
+Chart: https://react-chartjs-2.js.org/
